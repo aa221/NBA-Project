@@ -22,5 +22,15 @@ These utilized metrics will be derived from the EDA process within the notebook,
 ## Hypothesis testing visualized
 
 
+![download (11)](https://user-images.githubusercontent.com/57921290/206876594-35cb930b-5203-4fd1-af22-a0fabde51777.png)
+
+This is for the proportion of wins at home - the proportion of wins away! As you can see the difference is statistically significant in facvor of the proportion of home wins > proportion of away wins. 
+
+
+This process was repeated for individual stats as well. You can find the results in the project write up and discussion file. 
+
+This file will also contain the full findings of the project overall!
+
+
 
 
